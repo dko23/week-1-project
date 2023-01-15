@@ -1,0 +1,71 @@
+body{
+	font-family: 'Poor Story', cursive;
+	background-color: #D3D3D3;
+
+}
+
+.logo{
+	height: 90px;
+	width: 100px;
+	border: 3px solid black;
+}
+
+.banner {
+	display: flex;
+	justify-content: space-between;
+}
+
+.navlinks li{
+	display: inline-block;
+	padding: 20px;
+}
+form{margin-top: 40px;
+
+}
+
+.form img{
+	 width: 20px;
+  height: 10px;
+  object-fit: cover
+}
+
+
+input{
+	height: ;
+}
+#main{
+	background-image: url('https://images.all-free-download.com/images/graphiclarge/lifestyle_icons_reading_sketch_colored_cartoon_characters_6846582.jpg');
+	background-size: cover;
+	height: 500px;
+	
+}
+#main h1, p {color: white; }
+
+.read{
+	margin-top: 100px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+.recommendation{
+	margin-left: 600px;
+	margin-bottom: 100px;
+
+}
+
+
+.book{
+	height: 300px;
+	width: 200px;
+	border: 3px solid black;
+	border-radius: 50px;	
+
+}
+
+
+.contain{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
